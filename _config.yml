@@ -71,7 +71,6 @@ content:
          # 
         description: | # this will include new lines to allow paragraphs
           This paper was written for the CSBS Data Analytics Competition (2021). My teammates and I ended up winning 1st place!
-    content:
       - layout: top-middle
         title: Using Reproducing Kernel Hilbert Spaces to Improve Support Vector Machines
         link: github.com/ABeeShake/Papers/blob/main/AbhishekDevarajan_ResearchPaper_v1.pdf
@@ -87,18 +86,7 @@ content:
          # 
         description: | # this will include new lines to allow paragraphs
           I wrote this paper for my Math 195W- Mathematical Writing course. You can consider this a "senior thesis" of sorts.
-          
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: University of California, Irvine
-        caption: 2018 - 2021
-        sub_title: BS Mathematics (concentration in Data Science)
-        #quote: >
-         # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          My 
+         
 
   - title: A Little More About Me
     layout: text
