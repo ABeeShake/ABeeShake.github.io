@@ -1,6 +1,6 @@
 # Site
 repository: sproogen/resume-theme
-#favicon: images/favicon.ico
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -46,7 +46,7 @@ linkedin_username: ABeeShake
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+#about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi! My name is Abhishek (A-Bee-Shake) Devarajan and I am a fourth year Math & Statistics student at UC Irvine. As an undergraduate, I have participated in multiple research projects ranging from Convex Optimization to Analyzing Renaissance era texts. In terms of future work, I hope to continue researching topics such as machine learning and optimization. I am also eager to apply machine learning methods to problems in the social sciences.
   
