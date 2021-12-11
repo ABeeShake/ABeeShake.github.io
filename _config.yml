@@ -73,7 +73,7 @@ content:
           This paper was written for the CSBS Data Analytics Competition (2021). My teammates and I ended up winning 1st place!
       - layout: top-middle
         title: Using Reproducing Kernel Hilbert Spaces to Improve Support Vector Machines
-        link: github.com/ABeeShake/Papers/blob/main/AbhishekDevarajan_ResearchPaper_v1.pdf
+        link: github.com/ABeeShake/Papers/blob/main/RKHS_Paper_Final.pdf
         # link_text: Project Website
        # additional_links:
         #  - title:  sproogen/modern-resume-theme
